@@ -6,6 +6,9 @@ A professional and versatile **QR and Barcode Generator** built with **Flutter**
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6755217819)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/WZZFB0WhoeE/0.jpg)](https://www.youtube.com/watch?v=WZZFB0WhoeE)
+
 ## 🌟 Key Features
 - **Multi-Format Support:** Generate both QR codes and various barcode standards.
 - **Easy Sharing:** Export and share generated codes as high-quality images.
